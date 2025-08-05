@@ -13,6 +13,13 @@ Passionate and results-oriented electrical engineer with a strong background in 
 
 ---
 
+
+## Affiliations
+
+- Member of IEEE (Email: khouloud.othmani@ieee.org)  
+- Former Vice Chair, AESS IEEE ENSIT Student Branch
+ -----
+ 
 ## Skills
 
 ### Embedded Systems & Electronics
