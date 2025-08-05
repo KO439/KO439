@@ -4,7 +4,7 @@
 Address: 07 Ariana 2041, Tunis  
 Email: othmanikhouloud0@gmail.com  
 Phone: +216 54-042-358  
-
+- [LinkedIn - Khouloud Othmani](https://www.linkedin.com/in/khouloud-othmani-1566412b2)
 ---
 
 ## Profile
