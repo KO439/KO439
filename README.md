@@ -83,6 +83,8 @@ Tunis, Tunisia (July 1 – July 31, 2025)
 - Arduino, ESP32, and SolidWorks Certifications  
 - Additional Certifications in Statistics and Management  
 - Machine Learning Onramp
+- Deep Learning Onramp  
+- MATLAB Onramp  
 
 ---
 
@@ -90,5 +92,3 @@ Tunis, Tunisia (July 1 – July 31, 2025)
 
 - [LinkedIn - Khouloud Othmani](https://www.linkedin.com/in/khouloud-othmani-1566412b2)
 
-- Deep Learning Onramp  
-- MATLAB Onramp  
