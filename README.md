@@ -98,4 +98,8 @@ Tunis, Tunisia (July 1 – July 31, 2025)
 ## Contact
 
 - [LinkedIn - Khouloud Othmani](https://www.linkedin.com/in/khouloud-othmani-1566412b2)
+## CV
+
+Tu peux télécharger mon CV ici :  
+[Khouloud_Othmani_CV.pdf](./Khouloud_Othmani_CV.pdf)
 
