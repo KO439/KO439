@@ -82,6 +82,13 @@ Tunis, Tunisia (July 1 – July 31, 2025)
 - 4th Place – AEES TSYP Challenge 2024  
 - Arduino, ESP32, and SolidWorks Certifications  
 - Additional Certifications in Statistics and Management  
-- Machine Learning Onramp  
+- Machine Learning Onramp
+
+---
+
+## Contact
+
+- [LinkedIn - Khouloud Othmani](https://www.linkedin.com/in/khouloud-othmani-1566412b2)
+
 - Deep Learning Onramp  
 - MATLAB Onramp  
