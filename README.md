@@ -45,8 +45,8 @@ Passionate and results-oriented electrical engineer with a strong background in 
 National Engineering Degree 
 
 **Higher Institute of Medical Technologies of Tunis**  
-National Engineering Degree (2024)
 National Bachelor's degree in Biomedical Engineering (2021 - 2024)
+
 ---
 
 ## Work Experience
