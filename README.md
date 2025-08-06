@@ -25,8 +25,6 @@ Passionate and results-oriented electrical engineer with a strong background in 
 ### Embedded Systems & Electronics
 - Electronic system design
 - Embedded programming
-- Microcontrollers and FPGA
-- Digital signal processing
 - Circuit simulation (MATLAB, Simulink, LTspice)
 - Renewable energy and photovoltaic systems
 - Software development for embedded systems
@@ -44,11 +42,11 @@ Passionate and results-oriented electrical engineer with a strong background in 
 ## Education
 
 **National Higher School of Engineers of Tunis**  
-National Bachelor's degree in Biomedical Engineering (2021 - 2024)
+National Engineering Degree 
 
 **Higher Institute of Medical Technologies of Tunis**  
 National Engineering Degree (2024)
-
+National Bachelor's degree in Biomedical Engineering (2021 - 2024)
 ---
 
 ## Work Experience
