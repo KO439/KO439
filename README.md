@@ -9,7 +9,7 @@ Phone: +216 54-042-358
 
 ## Profile
 
-Passionate and results-oriented electrical engineer with a strong background in designing and optimizing electronic systems. Expertise in IoT, embedded systems, and biomedical technologies.
+Passionate and results-oriented electrical engineer with a background in designing and optimizing electronic systems. Expertise in IoT, embedded systems, and biomedical technologies.
 
 ---
 
